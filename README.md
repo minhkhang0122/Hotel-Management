@@ -4,6 +4,7 @@
 
 - [Hotel Management Implementation in Cisco Packet Tracer](#hotel-management-implementation-in-cisco-packet-tracer)
   - [Table of contents](#table-of-contents)
+- [Overview of the Network Topology](#overview-of-the-network-topology)
 - [Story](#story)
 - [Requirement](#requirement)
 - [Technologies Implemented](#technologies-implemented)
@@ -22,6 +23,10 @@
   - [Step 11: Configure port security](#step-11-configure-port-security)
 
 ---
+
+# Overview of the Network Topology
+![final network topology](assets/step11_3.png)
+
 
 # Story
 
@@ -325,4 +330,3 @@ Window command: ssh -l [username] [IP of the Router]
 
 ![configuring port security](assets/step11_1.png)
 ![port security state](assets/step11_2.png)
-![final network topology](assets/step11_3.png)
